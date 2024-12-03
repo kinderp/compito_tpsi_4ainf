@@ -1,0 +1,1 @@
+int potenza(int, int);
